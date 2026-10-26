@@ -1,7 +1,7 @@
 // Elgun Gurbanov 251ADB148
 // https://github.com/equrbanofff/calc-lab-home
 // Compile with: gcc -O2 -Wall -Wextra -std=c17 -o calc calc.c -lm
-// Resources used: ChatGPT; course materials
+// Resources used:some materials
 // https://cp-algorithms.com/algebra/binary-exp.html
 // https://en.cppreference.com/w/c/string/byte/isdigit.html
 // https://en.cppreference.com/w/c/string/byte/strtol.html
